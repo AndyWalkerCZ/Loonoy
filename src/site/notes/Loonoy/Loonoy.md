@@ -1,36 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/loonoy/loonoy/","tags":["projekt","gardenEntry"],"created":"2025-09-13T00:22:47.734+02:00"}
+{"dg-publish":true,"permalink":"/loonoy/loonoy/","tags":["projekt","gardenEntry"],"created":"2025-09-13T00:22:47.734+02:00","updated":"2026-02-05T07:20:22.333+01:00"}
 ---
 
-> [!Menu]
-> 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-
-
-**Administrativa:** 🏠 [[Loonoy/Loonoy\|Home]] |🆗 [[Loonoy/Úkoly\|Úkoly]] |⏰[[Loonoy/Evidence hodin/Evidence hodin\|Evidence hodin]] 
-**Části:** [[Loonoy/Komponenty\|Komponenty]] | [[Loonoy/Spojovací materiál\|Spojovací materiál]] | [[Loonoy/Závaží/Závaží\|Závaží]] | [[Loonoy/Pohon/Pohon\|Pohon]] | [[Loonoy/Reprák/Reprák\|Reprák]] | [[Loonoy/Elektronika/Elektronika\|Elektronika]] | [[Loonoy/Měření hluku\|Měření hluku]]
-**Revize:** [[Loonoy/R0 - Zadání\|R0 - Zadání]] | [[Loonoy/R1 - 1. prototyp\|R1 - 1. prototyp]]
-[[Loonoy/Zkoušky/Zkoušky\|Zkoušky]]
-
-</div></div>
-
-
----
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
-**Administrativa:** 🏠 [[Loonoy/Loonoy\|Home]] |🆗 [[Loonoy/Úkoly\|Úkoly]] |⏰[[Loonoy/Evidence hodin/Evidence hodin\|Evidence hodin]] 
-**Části:** [[Loonoy/Komponenty\|Komponenty]] | [[Loonoy/Spojovací materiál\|Spojovací materiál]] | [[Loonoy/Závaží/Závaží\|Závaží]] | [[Loonoy/Pohon/Pohon\|Pohon]] | [[Loonoy/Reprák/Reprák\|Reprák]] | [[Loonoy/Elektronika/Elektronika\|Elektronika]] | [[Loonoy/Měření hluku\|Měření hluku]]
-**Revize:** [[Loonoy/R0 - Zadání\|R0 - Zadání]] | [[Loonoy/R1 - 1. prototyp\|R1 - 1. prototyp]]
-[[Loonoy/Zkoušky/Zkoušky\|Zkoušky]]
+
 
 </div></div>
 
 
----
+
 
 
 
