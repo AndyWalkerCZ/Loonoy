@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/loonoy/loonoy/","tags":["projekt","gardenEntry"]}
+{"dg-publish":true,"permalink":"/loonoy/loonoy/","tags":["projekt","gardenEntry"],"created":"2025-09-13T00:22:47.734+02:00"}
 ---
 
-
+![60401_box.jpg](/img/user/LEGO/Sklad/SA05/60401_box.jpg)
 [[Loonoy/Evidence hodin/Evidence hodin 2026-01\|Evidence hodin 2026-01]] / [[Loonoy/Výroba 6 ks\|Výroba 6 ks]] / 
 # TODO
 - [ ] #task Vývoj krytu na velký reproduktor.
