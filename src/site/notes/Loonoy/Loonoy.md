@@ -2,20 +2,18 @@
 {"dg-publish":true,"permalink":"/loonoy/loonoy/","tags":["projekt","gardenEntry"],"created":"2025-09-13T00:22:47.734+02:00"}
 ---
 
-![60401_box.jpg](/img/user/LEGO/Sklad/SA05/60401_box.jpg)
-[[Loonoy/Evidence hodin/Evidence hodin 2026-01\|Evidence hodin 2026-01]] / [[Loonoy/Výroba 6 ks\|Výroba 6 ks]] / 
-# TODO
-- [ ] #task Vývoj krytu na velký reproduktor.
-- [ ] #task 3D Tisk / Vyrobit 2 sady sloupků (jeda už je v tisku)
-- [ ] #task 3D Tisk / Vyrobit 1 sadu battery boxů (nebo dvě kdybych nahrazoval tu SN: 02)
-- [ ] #task Testování došlých kabelů.
-- [ ] #task Napsat zprávu pro Pepu.
+> [!Menu]
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
-# Vývoj
-- [ ] #task [[Loonoy/Houpání na koberci\|Houpání na koberci]]
-- [ ] #task [[Loonoy/Shánění pohonů\|Shánění pohonů]]
-- [ ] #task [[Loonoy/Kabel USB-C prodlužka\|Kabel USB-C prodlužka]]
+
+**Administrativa:** 🏠 [[Loonoy/Loonoy\|Home]] |🆗 [[Loonoy/Úkoly\|Úkoly]] |⏰[[Loonoy/Evidence hodin/Evidence hodin\|Evidence hodin]] 
+**Části:** [[Loonoy/Komponenty\|Komponenty]] | [[Loonoy/Spojovací materiál\|Spojovací materiál]] | [[Loonoy/Závaží/Závaží\|Závaží]] | [[Loonoy/Pohon/Pohon\|Pohon]] | [[Loonoy/Reprák/Reprák\|Reprák]] | [[Loonoy/Elektronika/Elektronika\|Elektronika]] | [[Loonoy/Měření hluku\|Měření hluku]]
+**Revize:** [[Loonoy/R0 - Zadání\|R0 - Zadání]] | [[Loonoy/R1 - 1. prototyp\|R1 - 1. prototyp]]
+[[Loonoy/Zkoušky/Zkoušky\|Zkoušky]]
+
+</div></div>
 
 
 
@@ -30,6 +28,23 @@
 
 </div></div>
 
+
+
+
+
+[[Loonoy/Evidence hodin/Evidence hodin 2026-01\|Evidence hodin 2026-01]] / [[Loonoy/Výroba 6 ks\|Výroba 6 ks]] / 
+# TODO
+- [ ] #task Vývoj krytu na velký reproduktor.
+- [ ] #task 3D Tisk / Vyrobit 2 sady sloupků (jeda už je v tisku)
+- [ ] #task 3D Tisk / Vyrobit 1 sadu battery boxů (nebo dvě kdybych nahrazoval tu SN: 02)
+- [ ] #task Testování došlých kabelů.
+- [ ] #task Napsat zprávu pro Pepu.
+
+
+# Vývoj
+- [ ] #task [[Loonoy/Houpání na koberci\|Houpání na koberci]]
+- [ ] #task [[Loonoy/Shánění pohonů\|Shánění pohonů]]
+- [ ] #task [[Loonoy/Kabel USB-C prodlužka\|Kabel USB-C prodlužka]]
 
 
 
